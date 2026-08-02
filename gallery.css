@@ -34,7 +34,6 @@ img.preview {
     height: auto;
 }
 
-/* Accessibility focus styling */
 .preview:focus {
     outline: 4px solid #8e68ff;
 }
